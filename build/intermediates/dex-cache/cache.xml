@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\AsUSee\Desktop\ProjectX\AndroidProject\QrTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\AsUSee\Desktop\ProjectX\AndroidProject\QrTest\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-72bf03a719db08ef9c3878a8d6644789d12764b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\AsUSee\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\AsUSee\Desktop\ProjectX\AndroidProject\QrTest\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-5d853f23c4a73bc3f57779f4756f8b9e22670d02.jar" />
+    </item>
+    <item
+        jar="C:\Users\AsUSee\Desktop\ProjectX\AndroidProject\QrTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\AsUSee\Desktop\ProjectX\AndroidProject\QrTest\app\build\intermediates\pre-dexed\debug\classes-d72400655e95a98f2a821b111b4235ac3a687e42.jar" />
+    </item>
+    <item
+        jar="C:\Users\AsUSee\Desktop\ProjectX\AndroidProject\QrTest\app\libs\zbar.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0a7b88ba1496a0b4af76069ad40dacd3897149e0">
+        <dex dex="C:\Users\AsUSee\Desktop\ProjectX\AndroidProject\QrTest\app\build\intermediates\pre-dexed\debug\zbar-9c7a39f9f97524aeb47ac853423e6bcb88aab108.jar" />
+    </item>
+
+</items>
